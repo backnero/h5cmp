@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["i8Gl"],{i8Gl:function(e,i,n){"use strict";n.r(i);var t=n("KHd+"),l=Object(t.a)({},function(){var e=this.$createElement,i=this._self._c||e;return i("div",{staticClass:"app-video-container"},[i("router-view")],1)},[],!1,null,null,null);l.options.__file="index.vue";i.default=l.exports}}]);

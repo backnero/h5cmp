@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["7Etu"],{"7Etu":function(e,t,n){"use strict";n.r(t);var i=n("KHd+"),s=Object(i.a)({},function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"app-video-container"},[t("router-view")],1)},[],!1,null,null,null);s.options.__file="index.vue";t.default=s.exports}}]);
